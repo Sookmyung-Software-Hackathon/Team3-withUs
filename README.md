@@ -17,13 +17,9 @@ Open ``instant_noodel_test_img.ipynb`` with Colaboratory
 ```python
 from IPython.display import Image
 import os
-
 val_img_path = img_list[47]
-
 weights_path = '/content/drive/MyDrive/instant-noodle/yolov5/runs/train/noodle-result5/weights/best.pt'
-
 !python detect.py --weights "{weights_path}" --img 416 --conf 0.5 --source "{val_img_path}"
-
 detect_img_path = '/content/drive/MyDrive/instant-noodle/yolov5/runs/detect/exp'
 ```   
 위의 Cell 실행 후 'Results saved to runs/detect/**exp**'의 경로에 저장되었으므로, 해당 위치에서 확인 가능하다.   
@@ -39,6 +35,7 @@ detect_img_path = '/content/drive/MyDrive/instant-noodle/yolov5/runs/detect/exp'
   
    
 # 기획서
+　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　[노션링크](https://eggplant-raccoon-ce3.notion.site/Team3-00e3f6dd0df14e03b7a9c2ed24b3b46f)
 ![001](https://user-images.githubusercontent.com/90624848/187071534-618aafc1-3055-40d0-b39e-e9bbf661a67e.jpg)
 ![002](https://user-images.githubusercontent.com/90624848/187071537-a89f5241-07ee-4369-ba0a-01fc15913eb7.jpg)
 ![003](https://user-images.githubusercontent.com/90624848/187071538-59c7d8db-ff9a-4610-91da-978d30c05b32.jpg)
