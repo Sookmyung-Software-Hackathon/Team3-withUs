@@ -33,7 +33,10 @@ detect_img_path = '/content/drive/MyDrive/instant-noodle/yolov5/runs/detect/exp'
 - ``val_img_path`` : test images의 경로를 저장한 list
 - ``detect_img_path`` : test images 실행 결과 이미지를 저장한 폴더의 경로   
    
-   
+## Model 학습 진행 상황
+![image](https://user-images.githubusercontent.com/90624848/187072399-747700bd-8631-4a15-9aa9-3380028d12ac.png)
+
+  
    
 # 기획서
 ![001](https://user-images.githubusercontent.com/90624848/187071534-618aafc1-3055-40d0-b39e-e9bbf661a67e.jpg)
