@@ -42,4 +42,5 @@ detect_img_path = '/content/drive/MyDrive/instant-noodle/yolov5/runs/detect/exp'
 ![004](https://user-images.githubusercontent.com/90624848/187071539-a41033f6-b341-4585-af80-fb5d4004c52f.jpg)
 ![005](https://user-images.githubusercontent.com/90624848/187071541-de7e705b-f248-4d25-ae87-0a552d20c7ee.jpg)
 ![006](https://user-images.githubusercontent.com/90624848/187071546-2e3c1d41-25f2-4298-9458-6507dd4a0bd1.jpg)
-![007](https://user-images.githubusercontent.com/90624848/187071547-7dd85bec-3b83-41a9-834c-e0267fbfdf7a.jpg)
+![Noodle Freedom-007](https://user-images.githubusercontent.com/90624848/187249675-f4ba2b88-9446-4de9-9f03-86e42b73a7fd.jpg)
+
